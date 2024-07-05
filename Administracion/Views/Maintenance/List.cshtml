@@ -1,0 +1,49 @@
+﻿@model List<EmpleadoModelo>
+@{
+    ViewData["Title"] = "List";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="card">
+    <div class="card-header">
+        Listar Empleados 
+    </div>
+    <div class="card-body">
+        <a asp-action="Save" asp-controller="Maintenance" class="btn btn-success">Crear Nuevo</a>
+        </hr>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">ID</th>
+                    <th scope="col">Primer Nombre</th>
+                    <th scope="col">Segundo Nombre</th>
+                    <th scope="col">Fecha de Nacimiento</th>
+                    <th scope="col">Posición</th>
+                    <th scope="col">Salario</th>
+                    <th scope="col">Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <th scope="row">@item.ID_empleado</th>
+                        <th scope="row">@item.FirstName</th>
+                        <th scope="row">@item.LastName</th>
+                        <th scope="row">@item.DateBirth</th>
+                        <th scope="row">@item.Position</th>
+                        <th scope="row">@item.Amount</th>
+
+                        <th scope="row">
+                            <a asp-action="Update" asp-controller="Maintenance" class="btn btn-outline-info" asp-route-IdEmployee="@item.ID_empleado"><box-icon name='pencil'></box-icon></a>
+                            <a asp-action="Delete" asp-controller="Maintenance" class="btn btn-outline-danger" asp-route-IdEmployee="@item.ID_empleado"><box-icon name='trash'></box-icon></a>
+                            
+                        </th>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>

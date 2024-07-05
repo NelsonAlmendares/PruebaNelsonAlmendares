@@ -1,0 +1,23 @@
+﻿@model EmpleadoModelo
+@{
+    ViewData["Title"] = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-header">
+        Eliminar un Empleado
+    </div>
+    <div class="card-body">
+        <form asp-action="Delete" asp-controller="Maintenance" method="post">
+            <input type="hidden" asp-for="ID_empleado" class="form-control" aria-describedby="emailHelp">
+
+            <div class="alert alert-danger" role="alert">
+               ¿Desea eliminar: @Html.DisplayTextFor(m => m.FirstName) ?
+            </div>
+
+            <button type="submit" class="btn btn-danger">Submit</button>
+            <a asp-action="List" asp-controller="Maintenance" class="btn btn-warning">Volver a la lista</a>
+        </form>
+    </div>
+</div>

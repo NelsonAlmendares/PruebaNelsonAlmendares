@@ -1,0 +1,64 @@
+﻿@model EmpleadoModelo
+
+@{
+    ViewData["Title"] = "Save";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-header">
+        Crear un Empleado
+    </div>
+    <div class="card-body">
+        <form asp-action="Save" asp-controller="Maintenance" method="post">
+            <div class="mb-3">
+                <label for="Name" class="form-label">Nombre del Empleado:</label>
+                <input type="text" asp-for="FirstName" class="form-control" aria-describedby="emailHelp"> 
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Apellido del Empleado:</label>
+                <input type="text" asp-for="LastName" class="form-control" aria-describedby="emailHelp">
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Fecha de Nacimiento:</label>
+                <div class="col-lg-3 col-sm-6">
+                    <input id="startDate" class="form-control" asp-for="DateBirth" type="date" />
+                    <span id="startDateSelected"></span>
+                </div>
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputPassword1" class="form-label">Posición de Trabajo</label>
+                <select class="form-select" aria-label="Default select example">
+                    <option selected asp-for="Position"></option>
+                    <option value="1">Desarrollador Jr</option>
+                    <option value="2">Analista de Datos</option>
+                    <option value="3">QA Manager</option>
+                </select>
+            </div>
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Salario asignado para el Empleado:</label>
+                <input type="text" class="form-control" asp-for="Amount" aria-describedby="emailHelp">
+                <span asp-validation-for="Amount" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+            <a asp-action="List" asp-controller="Maintenance" class="btn btn-warning">Volver a la lista</a>
+        </form>
+    </div>
+</div>
+
+<script>
+    let startDate = document.getElementById('startDate')
+    let endDate = document.getElementById('endDate')
+
+    startDate.addEventListener('change', (e) => {
+        let startDateVal = e.target.value
+        document.getElementById('startDateSelected').innerText = startDateVal
+    })
+
+    endDate.addEventListener('change', (e) => {
+        let endDateVal = e.target.value
+        document.getElementById('endDateSelected').innerText = endDateVal
+    })
+</script>

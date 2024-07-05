@@ -1,0 +1,49 @@
+﻿@model List<NominaModelo>
+@{
+    ViewData["Title"] = "ListNomina";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="card">
+    <div class="card-header">
+        Vista de Nóminas
+    </div>
+    <div class="card-body">
+        <a asp-action="Save" asp-controller="Nomina" class="btn btn-success">Nueva Nómina</a>        
+        </hr>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">ID</th>
+                    <th scope="col">Fecha</th>
+                    <th scope="col">Empleado</th>                    
+                    <th scope="col">Posición</th>
+                    <th scope="col">Salario</th>
+                    <th scope="col">Días trabajados al mes</th>
+                    <th scope="col">Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <th scope="row">@item.ID_Nomina</th>
+                        <th scope="row">@item.DatePicked</th>
+                        <th scope="row">@item.ID_Empleado</th>
+                        <th scope="row">@item.Position</th>
+                        <th scope="row">@item.Payment</th>
+                        <th scope="row">@item.DaysNotWorked</th>
+                        <th scope="row">
+                            <a asp-action="Update" asp-controller="Maintenance" class="btn btn-outline-info"><box-icon name='file-blank' type='solid'></box-icon></a>
+                            <a asp-action="Delete" asp-controller="Maintenance" class="btn btn-outline-danger"><box-icon name='trash'></box-icon></a>
+
+                        </th>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<script src="https://unpkg.com/boxicons@2.1.4/dist/boxicons.js"></script>
