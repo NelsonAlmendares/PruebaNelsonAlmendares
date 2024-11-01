@@ -1,22 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nelso\\OneDrive\\Escritorio\\Administracion\\",
+  "WorkspaceRootPath": "C:\\Users\\nelso\\OneDrive\\Escritorio\\PruebaNelsonAlmendares\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F411B983-B9E8-47A3-B8C1-11E522951EE2}|Administracion\\Administracion.csproj|c:\\users\\nelso\\onedrive\\escritorio\\administracion\\administracion\\data\\nomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F411B983-B9E8-47A3-B8C1-11E522951EE2}|Administracion\\Administracion.csproj|solutionrelative:administracion\\data\\nomina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F411B983-B9E8-47A3-B8C1-11E522951EE2}|Administracion\\Administracion.csproj|c:\\users\\nelso\\onedrive\\escritorio\\pruebanelsonalmendares\\administracion\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F411B983-B9E8-47A3-B8C1-11E522951EE2}|Administracion\\Administracion.csproj|solutionrelative:administracion\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F411B983-B9E8-47A3-B8C1-11E522951EE2}|Administracion\\Administracion.csproj|c:\\users\\nelso\\onedrive\\escritorio\\administracion\\administracion\\views\\nomina\\listnomina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F411B983-B9E8-47A3-B8C1-11E522951EE2}|Administracion\\Administracion.csproj|solutionrelative:administracion\\views\\nomina\\listnomina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F411B983-B9E8-47A3-B8C1-11E522951EE2}|Administracion\\Administracion.csproj|c:\\users\\nelso\\onedrive\\escritorio\\administracion\\administracion\\views\\nomina\\save.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F411B983-B9E8-47A3-B8C1-11E522951EE2}|Administracion\\Administracion.csproj|solutionrelative:administracion\\views\\nomina\\save.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F411B983-B9E8-47A3-B8C1-11E522951EE2}|Administracion\\Administracion.csproj|c:\\users\\nelso\\onedrive\\escritorio\\administracion\\administracion\\models\\empleadomodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F411B983-B9E8-47A3-B8C1-11E522951EE2}|Administracion\\Administracion.csproj|c:\\users\\nelso\\onedrive\\escritorio\\pruebanelsonalmendares\\administracion\\models\\empleadomodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F411B983-B9E8-47A3-B8C1-11E522951EE2}|Administracion\\Administracion.csproj|solutionrelative:administracion\\models\\empleadomodelo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F411B983-B9E8-47A3-B8C1-11E522951EE2}|Administracion\\Administracion.csproj|c:\\users\\nelso\\onedrive\\escritorio\\pruebanelsonalmendares\\administracion\\views\\maintenance\\save.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F411B983-B9E8-47A3-B8C1-11E522951EE2}|Administracion\\Administracion.csproj|solutionrelative:administracion\\views\\maintenance\\save.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F411B983-B9E8-47A3-B8C1-11E522951EE2}|Administracion\\Administracion.csproj|c:\\users\\nelso\\onedrive\\escritorio\\pruebanelsonalmendares\\administracion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F411B983-B9E8-47A3-B8C1-11E522951EE2}|Administracion\\Administracion.csproj|solutionrelative:administracion\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F411B983-B9E8-47A3-B8C1-11E522951EE2}|Administracion\\Administracion.csproj|c:\\users\\nelso\\onedrive\\escritorio\\pruebanelsonalmendares\\administracion\\views\\maintenance\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F411B983-B9E8-47A3-B8C1-11E522951EE2}|Administracion\\Administracion.csproj|solutionrelative:administracion\\views\\maintenance\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F411B983-B9E8-47A3-B8C1-11E522951EE2}|Administracion\\Administracion.csproj|c:\\users\\nelso\\onedrive\\escritorio\\pruebanelsonalmendares\\administracion\\views\\maintenance\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F411B983-B9E8-47A3-B8C1-11E522951EE2}|Administracion\\Administracion.csproj|solutionrelative:administracion\\views\\maintenance\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F411B983-B9E8-47A3-B8C1-11E522951EE2}|Administracion\\Administracion.csproj|c:\\users\\nelso\\onedrive\\escritorio\\pruebanelsonalmendares\\administracion\\data\\employeeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F411B983-B9E8-47A3-B8C1-11E522951EE2}|Administracion\\Administracion.csproj|solutionrelative:administracion\\data\\employeeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F411B983-B9E8-47A3-B8C1-11E522951EE2}|Administracion\\Administracion.csproj|c:\\users\\nelso\\onedrive\\escritorio\\pruebanelsonalmendares\\administracion\\controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F411B983-B9E8-47A3-B8C1-11E522951EE2}|Administracion\\Administracion.csproj|solutionrelative:administracion\\controllers\\maintenancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F411B983-B9E8-47A3-B8C1-11E522951EE2}|Administracion\\Administracion.csproj|c:\\users\\nelso\\onedrive\\escritorio\\pruebanelsonalmendares\\administracion\\views\\maintenance\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F411B983-B9E8-47A3-B8C1-11E522951EE2}|Administracion\\Administracion.csproj|solutionrelative:administracion\\views\\maintenance\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F411B983-B9E8-47A3-B8C1-11E522951EE2}|Administracion\\Administracion.csproj|c:\\users\\nelso\\onedrive\\escritorio\\pruebanelsonalmendares\\administracion\\data\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F411B983-B9E8-47A3-B8C1-11E522951EE2}|Administracion\\Administracion.csproj|solutionrelative:administracion\\data\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,66 +49,130 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 176,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 206,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EmpleadoModelo.cs",
-              "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\Escritorio\\Administracion\\Administracion\\Models\\EmpleadoModelo.cs",
-              "RelativeDocumentMoniker": "Administracion\\Models\\EmpleadoModelo.cs",
-              "ToolTip": "C:\\Users\\nelso\\OneDrive\\Escritorio\\Administracion\\Administracion\\Models\\EmpleadoModelo.cs",
-              "RelativeToolTip": "Administracion\\Models\\EmpleadoModelo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T19:27:02.141Z",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\Escritorio\\PruebaNelsonAlmendares\\Administracion\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Administracion\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\nelso\\OneDrive\\Escritorio\\PruebaNelsonAlmendares\\Administracion\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Administracion\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T21:39:38.711Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Save.cshtml",
-              "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\Escritorio\\Administracion\\Administracion\\Views\\Nomina\\Save.cshtml",
-              "RelativeDocumentMoniker": "Administracion\\Views\\Nomina\\Save.cshtml",
-              "ToolTip": "C:\\Users\\nelso\\OneDrive\\Escritorio\\Administracion\\Administracion\\Views\\Nomina\\Save.cshtml",
-              "RelativeToolTip": "Administracion\\Views\\Nomina\\Save.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\Escritorio\\PruebaNelsonAlmendares\\Administracion\\Views\\Maintenance\\Save.cshtml",
+              "RelativeDocumentMoniker": "Administracion\\Views\\Maintenance\\Save.cshtml",
+              "ToolTip": "C:\\Users\\nelso\\OneDrive\\Escritorio\\PruebaNelsonAlmendares\\Administracion\\Views\\Maintenance\\Save.cshtml",
+              "RelativeToolTip": "Administracion\\Views\\Maintenance\\Save.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-05T19:51:51.574Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 224,
-          "SelectedChildIndex": 1,
-          "Children": [
+              "WhenOpened": "2024-09-29T17:54:57.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MaintenanceController.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\Escritorio\\PruebaNelsonAlmendares\\Administracion\\Controllers\\MaintenanceController.cs",
+              "RelativeDocumentMoniker": "Administracion\\Controllers\\MaintenanceController.cs",
+              "ToolTip": "C:\\Users\\nelso\\OneDrive\\Escritorio\\PruebaNelsonAlmendares\\Administracion\\Controllers\\MaintenanceController.cs",
+              "RelativeToolTip": "Administracion\\Controllers\\MaintenanceController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwDwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T01:24:26.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeInfo.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\Escritorio\\PruebaNelsonAlmendares\\Administracion\\Data\\EmployeeInfo.cs",
+              "RelativeDocumentMoniker": "Administracion\\Data\\EmployeeInfo.cs",
+              "ToolTip": "C:\\Users\\nelso\\OneDrive\\Escritorio\\PruebaNelsonAlmendares\\Administracion\\Data\\EmployeeInfo.cs",
+              "RelativeToolTip": "Administracion\\Data\\EmployeeInfo.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAWwK4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:24:41.364Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ListNomina.cshtml",
-              "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\Escritorio\\Administracion\\Administracion\\Views\\Nomina\\ListNomina.cshtml",
-              "RelativeDocumentMoniker": "Administracion\\Views\\Nomina\\ListNomina.cshtml",
-              "ToolTip": "C:\\Users\\nelso\\OneDrive\\Escritorio\\Administracion\\Administracion\\Views\\Nomina\\ListNomina.cshtml",
-              "RelativeToolTip": "Administracion\\Views\\Nomina\\ListNomina.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-05T19:54:26.662Z",
+              "Title": "EmpleadoModelo.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\Escritorio\\PruebaNelsonAlmendares\\Administracion\\Models\\EmpleadoModelo.cs",
+              "RelativeDocumentMoniker": "Administracion\\Models\\EmpleadoModelo.cs",
+              "ToolTip": "C:\\Users\\nelso\\OneDrive\\Escritorio\\PruebaNelsonAlmendares\\Administracion\\Models\\EmpleadoModelo.cs",
+              "RelativeToolTip": "Administracion\\Models\\EmpleadoModelo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T22:08:06.446Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Nomina.cs",
-              "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\Escritorio\\Administracion\\Administracion\\Data\\Nomina.cs",
-              "RelativeDocumentMoniker": "Administracion\\Data\\Nomina.cs",
-              "ToolTip": "C:\\Users\\nelso\\OneDrive\\Escritorio\\Administracion\\Administracion\\Data\\Nomina.cs",
-              "RelativeToolTip": "Administracion\\Data\\Nomina.cs",
-              "ViewState": "AQIAAFUAAAAAAAAAAAAkwGUAAAAoAAAA",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\Escritorio\\PruebaNelsonAlmendares\\Administracion\\appsettings.json",
+              "RelativeDocumentMoniker": "Administracion\\appsettings.json",
+              "ToolTip": "C:\\Users\\nelso\\OneDrive\\Escritorio\\PruebaNelsonAlmendares\\Administracion\\appsettings.json",
+              "RelativeToolTip": "Administracion\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-25T22:00:31.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\Escritorio\\PruebaNelsonAlmendares\\Administracion\\Data\\Connection.cs",
+              "RelativeDocumentMoniker": "Administracion\\Data\\Connection.cs",
+              "ToolTip": "C:\\Users\\nelso\\OneDrive\\Escritorio\\PruebaNelsonAlmendares\\Administracion\\Data\\Connection.cs",
+              "RelativeToolTip": "Administracion\\Data\\Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T19:50:18.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T00:24:24.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\Escritorio\\PruebaNelsonAlmendares\\Administracion\\Views\\Maintenance\\Update.cshtml",
+              "RelativeDocumentMoniker": "Administracion\\Views\\Maintenance\\Update.cshtml",
+              "ToolTip": "C:\\Users\\nelso\\OneDrive\\Escritorio\\PruebaNelsonAlmendares\\Administracion\\Views\\Maintenance\\Update.cshtml",
+              "RelativeToolTip": "Administracion\\Views\\Maintenance\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T20:17:57.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\Escritorio\\PruebaNelsonAlmendares\\Administracion\\Views\\Maintenance\\List.cshtml",
+              "RelativeDocumentMoniker": "Administracion\\Views\\Maintenance\\List.cshtml",
+              "ToolTip": "C:\\Users\\nelso\\OneDrive\\Escritorio\\PruebaNelsonAlmendares\\Administracion\\Views\\Maintenance\\List.cshtml",
+              "RelativeToolTip": "Administracion\\Views\\Maintenance\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAB2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T00:19:14.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\nelso\\OneDrive\\Escritorio\\PruebaNelsonAlmendares\\Administracion\\Views\\Maintenance\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Administracion\\Views\\Maintenance\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\nelso\\OneDrive\\Escritorio\\PruebaNelsonAlmendares\\Administracion\\Views\\Maintenance\\Delete.cshtml",
+              "RelativeToolTip": "Administracion\\Views\\Maintenance\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T02:13:38.172Z"
             }
           ]
         }

@@ -17,63 +17,63 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Administracion
 build_property.RootNamespace = Administracion
-build_property.ProjectDir = C:\Users\nelso\OneDrive\Escritorio\Administracion\Administracion\
+build_property.ProjectDir = C:\Users\nelso\OneDrive\Escritorio\PruebaNelsonAlmendares\Administracion\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = C:\Users\nelso\OneDrive\Escritorio\Administracion\Administracion
+build_property.MSBuildProjectDirectory = C:\Users\nelso\OneDrive\Escritorio\PruebaNelsonAlmendares\Administracion
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/nelso/OneDrive/Escritorio/Administracion/Administracion/Views/Home/Index.cshtml]
+[C:/Users/nelso/OneDrive/Escritorio/PruebaNelsonAlmendares/Administracion/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nelso/OneDrive/Escritorio/Administracion/Administracion/Views/Home/Privacy.cshtml]
+[C:/Users/nelso/OneDrive/Escritorio/PruebaNelsonAlmendares/Administracion/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nelso/OneDrive/Escritorio/Administracion/Administracion/Views/Maintenance/Delete.cshtml]
+[C:/Users/nelso/OneDrive/Escritorio/PruebaNelsonAlmendares/Administracion/Views/Maintenance/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbnRlbmFuY2VcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nelso/OneDrive/Escritorio/Administracion/Administracion/Views/Maintenance/List.cshtml]
+[C:/Users/nelso/OneDrive/Escritorio/PruebaNelsonAlmendares/Administracion/Views/Maintenance/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbnRlbmFuY2VcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nelso/OneDrive/Escritorio/Administracion/Administracion/Views/Maintenance/Save.cshtml]
+[C:/Users/nelso/OneDrive/Escritorio/PruebaNelsonAlmendares/Administracion/Views/Maintenance/Save.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbnRlbmFuY2VcU2F2ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nelso/OneDrive/Escritorio/Administracion/Administracion/Views/Maintenance/Update.cshtml]
+[C:/Users/nelso/OneDrive/Escritorio/PruebaNelsonAlmendares/Administracion/Views/Maintenance/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbnRlbmFuY2VcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nelso/OneDrive/Escritorio/Administracion/Administracion/Views/Nomina/ListNomina.cshtml]
+[C:/Users/nelso/OneDrive/Escritorio/PruebaNelsonAlmendares/Administracion/Views/Nomina/ListNomina.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9taW5hXExpc3ROb21pbmEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nelso/OneDrive/Escritorio/Administracion/Administracion/Views/Nomina/Save.cshtml]
+[C:/Users/nelso/OneDrive/Escritorio/PruebaNelsonAlmendares/Administracion/Views/Nomina/Save.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9taW5hXFNhdmUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nelso/OneDrive/Escritorio/Administracion/Administracion/Views/Shared/Error.cshtml]
+[C:/Users/nelso/OneDrive/Escritorio/PruebaNelsonAlmendares/Administracion/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nelso/OneDrive/Escritorio/Administracion/Administracion/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/nelso/OneDrive/Escritorio/PruebaNelsonAlmendares/Administracion/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nelso/OneDrive/Escritorio/Administracion/Administracion/Views/_ViewImports.cshtml]
+[C:/Users/nelso/OneDrive/Escritorio/PruebaNelsonAlmendares/Administracion/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nelso/OneDrive/Escritorio/Administracion/Administracion/Views/_ViewStart.cshtml]
+[C:/Users/nelso/OneDrive/Escritorio/PruebaNelsonAlmendares/Administracion/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/nelso/OneDrive/Escritorio/Administracion/Administracion/Views/Shared/_Layout.cshtml]
+[C:/Users/nelso/OneDrive/Escritorio/PruebaNelsonAlmendares/Administracion/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-t15k4ndcop

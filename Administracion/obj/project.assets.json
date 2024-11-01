@@ -6147,11 +6147,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nelso\\OneDrive\\Escritorio\\Administracion\\Administracion\\Administracion.csproj",
+      "projectUniqueName": "C:\\Users\\nelso\\OneDrive\\Escritorio\\PruebaNelsonAlmendares\\Administracion\\Administracion.csproj",
       "projectName": "Administracion",
-      "projectPath": "C:\\Users\\nelso\\OneDrive\\Escritorio\\Administracion\\Administracion\\Administracion.csproj",
+      "projectPath": "C:\\Users\\nelso\\OneDrive\\Escritorio\\PruebaNelsonAlmendares\\Administracion\\Administracion.csproj",
       "packagesPath": "C:\\Users\\nelso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nelso\\OneDrive\\Escritorio\\Administracion\\Administracion\\obj\\",
+      "outputPath": "C:\\Users\\nelso\\OneDrive\\Escritorio\\PruebaNelsonAlmendares\\Administracion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
